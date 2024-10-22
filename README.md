@@ -1,5 +1,6 @@
 # IDEA-traffic-handling
-Inter-DC &amp; Edge AI traffic handling
+
+"IDEA traffic handling" stands for "Inter-DC &amp; Edge AI traffic handling".
 
 ## About this initiative
 
