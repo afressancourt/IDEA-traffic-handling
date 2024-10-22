@@ -8,6 +8,8 @@ Given their structure, the number of parameters they incorporate and the collect
 
 In that regard, understanding the specificities of AI-related workloads is critical to determine how to operate AI-based services in a federated setting across datacenters.
 
+More about our problem statement: https://datatracker.ietf.org/doc/draft-aft-ai-traffic/
+
 ## Side meetings
 
 In the frame of this initiative, we have organized a first side meeting during IETF 120. This side meeting will have a follow-up during IETF 121. 
