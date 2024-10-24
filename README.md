@@ -2,6 +2,8 @@
 
 "IDEA traffic handling" stands for "Inter-DC &amp; Edge AI traffic handling".
 
+Information about next side meeting [here](side-meetings/IETF-121/README.md)
+
 ## About this initiative
 
 The growth in terms of number of parameters of LLM models as well as the need to use or train those models with private or protected data will require service providers operating LLM-based services to cooperate to train, specialize or serve LLM-based services accross datacenters. 
