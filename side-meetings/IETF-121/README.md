@@ -6,13 +6,15 @@ Given their structure, the number of parameters they incorporate and the collect
 In that regard, understanding the specificities of AI-related workloads is critical to determine how to operate AI-based services in a federated setting across datacenters.
 
 ## Logistics: 
-* _Room:_ Wicklow Hall 2A
+* __Room:__ Wicklow Hall 2A
+* __Remote participation:__  https://ietf.webex.com/meet/ietfsidemeeting2 (IETF Webex)
 
 ## Agenda:
 
-Soon...
-
-## Meeting link: 
-https://ietf.webex.com/meet/ietfsidemeeting2
-
+| 13:30 – 13:40 (10 min) | Meeting setup and introduction of the topic _(Huawei)_ |
+| 13:40 – 13:55 (15 min) | Presentation by Binhang Yuan _(Together AI – HKUST)_ |
+| 13:55 – 14:10 (15 min) | Presentation by _China Mobile_ |
+| 14:10 – 14:25 (15 min) | Presentation by _CICT_ |
+| 14:25 – 14:40 (15 min) | Presentation by Luis Contreras _(Telefónica)_ |
+| 14:40 – 15:00 (20 min) | Discussion on challenges to address in IETF and conclusion |
 
