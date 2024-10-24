@@ -1,4 +1,4 @@
-# Material for IETF121 side meeting on "Handling inter-DC/Edge AI-related network traffic"
+# IETF121 side meeting on _"Handling inter-DC/Edge AI-related network traffic"_
 
 The growth in terms of number of parameters of LLM models as well as the need to use or train those models with private or protected data will require service providers operating LLM-based services to cooperate to train, specialize or serve LLM-based services accross datacenters. 
 Given their structure, the number of parameters they incorporate and the collective communication librairies they are built with, LLM training and inference (or serving) network traffic has specific characteristics.
@@ -11,12 +11,12 @@ In that regard, understanding the specificities of AI-related workloads is criti
 
 ## Agenda:
 
-| Time                     | Topic                                                      |
-| ---                      | ---                                                        |
-| 13:30 – 13:40 _(10 min)_ | Meeting setup and introduction of the topic _(Huawei)_     |
-| 13:40 – 13:55 _(15 min)_ | Presentation by Binhang Yuan _(Together AI – HKUST)_       |
-| 13:55 – 14:10 _(15 min)_ | Presentation by _China Mobile_                             |
-| 14:10 – 14:25 _(15 min)_ | Presentation by _CICT_                                     |
-| 14:25 – 14:40 _(15 min)_ | Presentation by Luis Contreras _(Telefónica)_              |
-| 14:40 – 15:00 _(20 min)_ | Discussion on challenges to address in IETF and conclusion |
+| Time                     | Topic                                                      | Slides |
+| ---                      | ---                                                        | N/A    |
+| 13:30 – 13:40 _(10 min)_ | Meeting setup and introduction of the topic _(Huawei)_     | N/A    |
+| 13:40 – 13:55 _(15 min)_ | Presentation by Binhang Yuan _(Together AI – HKUST)_       | N/A    |
+| 13:55 – 14:10 _(15 min)_ | Presentation by _China Mobile_                             | N/A    |
+| 14:10 – 14:25 _(15 min)_ | Presentation by _CICT_                                     | N/A    |
+| 14:25 – 14:40 _(15 min)_ | Presentation by Luis Contreras _(Telefónica)_              | N/A    |
+| 14:40 – 15:00 _(20 min)_ | Discussion on challenges to address in IETF and conclusion | N/A    |
 
