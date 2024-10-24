@@ -5,8 +5,8 @@ Given their structure, the number of parameters they incorporate and the collect
 
 In that regard, understanding the specificities of AI-related workloads is critical to determine how to operate AI-based services in a federated setting across datacenters.
 
-## Room: 
-Wicklow Hall 2A
+## Logistics: 
+* _Room:_ Wicklow Hall 2A
 
 ## Agenda:
 
