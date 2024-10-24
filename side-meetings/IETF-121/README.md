@@ -11,12 +11,12 @@ In that regard, understanding the specificities of AI-related workloads is criti
 
 ## Agenda:
 
-| Time                   | Topic                                                      |
-| ---                    | ---                                                        |
-| 13:30 – 13:40 (10 min) | Meeting setup and introduction of the topic _(Huawei)_     |
-| 13:40 – 13:55 (15 min) | Presentation by Binhang Yuan _(Together AI – HKUST)_       |
-| 13:55 – 14:10 (15 min) | Presentation by _China Mobile_                             |
-| 14:10 – 14:25 (15 min) | Presentation by _CICT_                                     |
-| 14:25 – 14:40 (15 min) | Presentation by Luis Contreras _(Telefónica)_              |
-| 14:40 – 15:00 (20 min) | Discussion on challenges to address in IETF and conclusion |
+| Time                     | Topic                                                      |
+| ---                      | ---                                                        |
+| 13:30 – 13:40 _(10 min)_ | Meeting setup and introduction of the topic _(Huawei)_     |
+| 13:40 – 13:55 _(15 min)_ | Presentation by Binhang Yuan _(Together AI – HKUST)_       |
+| 13:55 – 14:10 _(15 min)_ | Presentation by _China Mobile_                             |
+| 14:10 – 14:25 _(15 min)_ | Presentation by _CICT_                                     |
+| 14:25 – 14:40 _(15 min)_ | Presentation by Luis Contreras _(Telefónica)_              |
+| 14:40 – 15:00 _(20 min)_ | Discussion on challenges to address in IETF and conclusion |
 
