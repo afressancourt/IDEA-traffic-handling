@@ -12,7 +12,7 @@ In that regard, understanding the specificities of AI-related workloads is criti
 ## Agenda:
 
 | Time                     | Topic                                                      | Slides |
-| ---                      | ---                                                        | N/A    |
+| ---                      | ---                                                        | ---    |
 | 13:30 – 13:40 _(10 min)_ | Meeting setup and introduction of the topic _(Huawei)_     | N/A    |
 | 13:40 – 13:55 _(15 min)_ | Presentation by Binhang Yuan _(Together AI – HKUST)_       | N/A    |
 | 13:55 – 14:10 _(15 min)_ | Presentation by _China Mobile_                             | N/A    |
