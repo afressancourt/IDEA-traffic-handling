@@ -11,12 +11,12 @@ In that regard, understanding the specificities of AI-related workloads is criti
 
 ## Agenda:
 
-| Time                     | Topic                                                      | Slides |
-| ---                      | ---                                                        | ---    |
-| 13:30 – 13:40 _(10 min)_ | Meeting setup and introduction of the topic _(Huawei)_     | N/A    |
-| 13:40 – 13:55 _(15 min)_ | _Accommodating LLM Service over Heterogeneous Computational Resources_ by Binhang Yuan _(Together AI – HKUST)_       | N/A    |
-| 13:55 – 14:10 _(15 min)_ | _Considerations on Inter-DC Network Requirements_ by Yisong Liu _(China Mobile)_                             | N/A    |
-| 14:10 – 14:25 _(15 min)_ | _Research Progress of Intelligent Computing Networks in China_ by Liang Guo _(Chief Engineer of Cloud Computing and Big Data Research Institute, CAICT_                                    | N/A    |
-| 14:25 – 14:40 _(15 min)_ | Presentation by Luis Contreras _(Telefónica)_              | N/A    |
-| 14:40 – 15:00 _(20 min)_ | Discussion on challenges to address in IETF and conclusion | N/A    |
+| Time | Topic | Slides |
+| --- | --- | --- |
+| 13:30 – 13:40 _(10 min)_ | Meeting setup and introduction of the topic _(Huawei)_ | N/A |
+| 13:40 – 13:55 _(15 min)_ | _Accommodating LLM Service over Heterogeneous Computational Resources_ by Binhang Yuan _(Together AI – HKUST)_ | N/A |
+| 13:55 – 14:10 _(15 min)_ | _Considerations on Inter-DC Network Requirements_ by Yisong Liu _(China Mobile)_ | N/A |
+| 14:10 – 14:25 _(15 min)_ | _Research Progress of Intelligent Computing Networks in China_ by Liang Guo _(Chief Engineer of Cloud Computing and Big Data Research Institute, CAICT)_ | N/A |
+| 14:25 – 14:40 _(15 min)_ | Presentation by _(Telefónica)_ | N/A |
+| 14:40 – 15:00 _(20 min)_ | Discussion on challenges to address in IETF and conclusion | N/A |
 
