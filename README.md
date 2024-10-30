@@ -13,7 +13,7 @@ In that regard, understanding the specificities of AI-related workloads is criti
 
 More about our problem statement: https://datatracker.ietf.org/doc/draft-aft-ai-traffic/
 
-You can leave comments, raise an issue or make a pull request [here](drafts/draft-aft-ai-traffic/)
+You can leave comments, raise an issue or make a pull request about this problem statement [here](drafts/draft-aft-ai-traffic/)
 
 ## Side meetings
 
