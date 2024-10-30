@@ -13,6 +13,8 @@ In that regard, understanding the specificities of AI-related workloads is criti
 
 More about our problem statement: https://datatracker.ietf.org/doc/draft-aft-ai-traffic/
 
+You can leave comments, raise an issue or make a pull request [here](drafts/draft-aft-ai-traffic/)
+
 ## Side meetings
 
 In the frame of this initiative, we have organized a first side meeting during IETF 120. This side meeting will have a follow-up during IETF 121. 
