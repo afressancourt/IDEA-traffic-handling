@@ -13,10 +13,12 @@ In that regard, understanding the specificities of AI-related workloads is criti
 
 | Time | Topic | Slides |
 | --- | --- | --- |
-| 13:30 – 13:40 _(10 min)_ | Meeting setup and introduction of the topic _(Huawei)_ | N/A |
-| 13:40 – 13:55 _(15 min)_ | _Accommodating LLM Service over Heterogeneous Computational Resources_ by Binhang Yuan _(Together AI – HKUST)_ | N/A |
-| 13:55 – 14:10 _(15 min)_ | _Considerations on Inter-DC Network Requirements_ by Yisong Liu _(China Mobile)_ | N/A |
-| 14:10 – 14:25 _(15 min)_ | _Research Progress of Intelligent Computing Networks in China_ by Liang Guo _(Chief Engineer of Cloud Computing and Big Data Research Institute, CAICT)_ | N/A |
-| 14:25 – 14:40 _(15 min)_ | Presentation by _(Telefónica)_ | N/A |
+| 13:30 – 13:35 _(5 min)_ | Meeting setup and introduction of the topic _(Huawei)_ | N/A |
+| 13:35 – 13:50 _(15 min)_ | _Accommodating LLM Service over Heterogeneous Computational Resources_ by Binhang Yuan _(HKUST)_ | N/A |
+| 13:50 – 14:00 _(10 min)_ | _RDMA proxy Inter-DC Over WAN Using Gateway_ by Rubing Liu _(H3C)_ | N/A |
+| 14:00 – 14:15 _(15 min)_ | _Considerations on Inter-DC Network Requirements_ by Yisong Liu _(China Mobile)_ | N/A |
+| 14:15 – 14:30 _(15 min)_ | _Research Progress of Intelligent Computing Networks in China_ by Liang Guo _(Chief Engineer of Cloud Computing and Big Data Research Institute, CAICT)_ | N/A |
+| 14:30 – 14:40 _(10 min)_ | Presentation by Oscar Gonzalez de Dios _(Telefónica)_ | N/A |
 | 14:40 – 15:00 _(20 min)_ | Discussion on challenges to address in IETF and conclusion | N/A |
+
 
