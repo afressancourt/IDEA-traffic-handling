@@ -18,7 +18,7 @@ In that regard, understanding the specificities of AI-related workloads is criti
 | 13:50 – 14:00 _(10 min)_ | _RDMA proxy Inter-DC Over WAN Using Gateway_ by Rubing Liu _(H3C)_ | N/A |
 | 14:00 – 14:15 _(15 min)_ | _Considerations on Inter-DC Network Requirements_ by Yisong Liu _(China Mobile)_ | N/A |
 | 14:15 – 14:30 _(15 min)_ | _Research Progress of Intelligent Computing Networks in China_ by Liang Guo _(Chief Engineer of Cloud Computing and Big Data Research Institute, CAICT)_ | N/A |
-| 14:30 – 14:40 _(10 min)_ | Presentation by Oscar Gonzalez de Dios _(Telefónica)_ | N/A |
+| 14:30 – 14:40 _(10 min)_ | _Enabling Inter-DC AI-Networking with Service provider optical slicing and programmable pluggables_ by Oscar Gonzalez de Dios _(Telefónica)_ | N/A |
 | 14:40 – 15:00 _(20 min)_ | Discussion on challenges to address in IETF and conclusion | N/A |
 
 
